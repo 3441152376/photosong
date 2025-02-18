@@ -1,4 +1,110 @@
+
 # PhotoSongAI
+
+PhotoSongAI is an innovative AI-driven image-to-music platform capable of transforming images into unique musical compositions.
+
+## Features
+
+- 🎵 AI Intelligent Music Generation
+- 🖼️ Image-to-Music Conversion
+- 🎨 Multiple Music Style Options
+- 🌐 Multilingual Support (Chinese, English, Russian)
+- 🎼 Professional Music Editing Tools
+- 💾 Cloud Storage and Sharing
+- 🔄 Real-time Preview Functionality
+
+## Tech Stack
+
+- Vue 3 + Vite
+- Element Plus
+- TailwindCSS
+- LeanCloud
+- WebAudio API
+- PWA Support
+
+## Getting Started
+
+1. Clone the project
+
+2. Install dependencies
+```bash
+npm install
+```
+
+3. Configure environment variables
+
+4. Start the development server
+```bash
+npm run dev
+```
+
+5. Build for production
+```bash
+npm run build
+```
+
+## Environment Requirements
+
+- Node.js 16+
+- npm 7+
+- Modern browser support
+
+## Project Structure
+
+```
+src/
+├── assets/        # Static assets
+├── components/    # Components
+├── views/         # Pages
+├── router/        # Routing configuration
+├── stores/        # State management
+├── services/      # Services
+├── utils/         # Utility functions
+└── i18n/          # Internationalization
+```
+
+## Features
+
+### AI Music Generation
+- Supports multiple music styles
+- Intelligent image element recognition
+- Real-time music preview
+
+### User System
+- Account management
+- Work collection
+- Community sharing
+
+### Professional Tools
+- Music editor
+- Style customization
+- Batch processing
+
+## Contribution Guidelines
+
+1. Fork the project
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+This project is temporarily not open source
+
+## Contact Us
+
+- Website: [https://photosong.com](https://photosong.com)
+- Email: wuyanzu@photosong.com
+
+## Acknowledgments
+
+Thanks to all the developers who contributed to this project!
+
+
+
+
+# PhotoSongAI Chinese
 
 PhotoSongAI 是一个创新的 AI 驱动的图片转音乐平台，能够将图片转换为独特的音乐作品。
 
@@ -100,3 +206,107 @@ src/
 ## 致谢
 
 感谢所有为本项目做出贡献的开发者！
+
+
+
+# PhotoSongAI
+
+PhotoSongAI — это инновационная платформа с искусственным интеллектом, преобразующая изображения в уникальные музыкальные композиции.
+
+## Особенности
+
+- 🎵 Генерация музыки с помощью ИИ
+- 🖼️ Преобразование изображений в музыку
+- 🎨 Разнообразие музыкальных стилей
+- 🌐 Поддержка нескольких языков (китайский, английский, русский)
+- 🎼 Профессиональные инструменты для редактирования музыки
+- 💾 Облачное хранение и обмен
+- 🔄 Функция предварительного просмотра в реальном времени
+
+## Технологии
+
+- Vue 3 + Vite
+- Element Plus
+- TailwindCSS
+- LeanCloud
+- WebAudio API
+- Поддержка PWA
+
+## Начало работы
+
+1. Клонируйте проект
+
+2. Установите зависимости
+```bash
+npm install
+```
+
+3. Настройте переменные окружения
+
+4. Запустите сервер разработки
+```bash
+npm run dev
+```
+
+5. Соберите проект для production
+```bash
+npm run build
+```
+
+## Требования к окружению
+
+- Node.js 16+
+- npm 7+
+- Поддержка современных браузеров
+
+## Структура проекта
+
+```
+src/
+├── assets/        # Статические ресурсы
+├── components/    # Компоненты
+├── views/         # Страницы
+├── router/        # Конфигурация маршрутизации
+├── stores/        # Управление состоянием
+├── services/      # Сервисы
+├── utils/         # Вспомогательные функции
+└── i18n/          # Интернационализация
+```
+
+## Возможности
+
+### Генерация музыки с помощью ИИ
+- Поддержка различных музыкальных стилей
+- Интеллектуальное распознавание элементов изображения
+- Предварительный просмотр музыки в реальном времени
+
+### Пользовательская система
+- Управление аккаунтом
+- Коллекция работ
+- Обмен в сообществе
+
+### Профессиональные инструменты
+- Редактор музыки
+- Настройка стиля
+- Пакетная обработка
+
+## Руководство по внесению вклада
+
+1. Форкните проект
+2. Создайте ветку для новой функции (`git checkout -b feature/AmazingFeature`)
+3. Зафиксируйте изменения (`git commit -m 'Добавлена AmazingFeature'`)
+4. Отправьте изменения в ветку (`git push origin feature/AmazingFeature`)
+5. Откройте Pull Request
+
+## Лицензия
+
+Этот проект временно не является открытым
+
+## Свяжитесь с нами
+
+- Веб-сайт: [https://photosong.com](https://photosong.com)
+- Электронная почта: wuyanzu@photosong.com
+
+## Благодарности
+
+Спасибо всем разработчикам, которые внесли вклад в этот проект!
